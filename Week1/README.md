@@ -13,4 +13,4 @@ the objective is to derive the best values by solving the following set of equat
 
 ### Solution
 
-<img src="/images/big-data-analytics/gradient-descent-math.png?raw=true"/>
+<img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/big-data-analytics/gradient-descent-math.png?raw=true"/>
