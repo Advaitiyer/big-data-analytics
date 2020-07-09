@@ -20,4 +20,4 @@ It can be speculated that Convolutional Neural Networks (CNNs) might perform bet
 
 **Poster with results:**
 
-<img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/big-data-analytics/bda-project-poster.png?raw=true"/>
+<img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/big-data-analytics/bda-project-poster.pdf?raw=true"/>
