@@ -9,3 +9,7 @@
 <img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/big-data-analytics/wk4-4.png?raw=true"/>
 
 <img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/big-data-analytics/wk4-5.png?raw=true"/>
+
+<img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/big-data-analytics/wk4-6.png?raw=true"/>
+
+<img src="https://github.com/Advaitiyer/advaitiyer.github.io/blob/master/assets/images/big-data-analytics/wk4-7.png?raw=true"/>
